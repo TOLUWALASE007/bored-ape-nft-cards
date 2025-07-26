@@ -185,7 +185,7 @@ If you have any questions or need help with the project:
 
 - 📧 Email: [toluwalaseemmanuel20@gmail.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/TOLUWALASE007/bored-ape-nft-cards/issues)
-- 💻 Discussions: [GitHub Discussions](https://github.com/TOLUWALASE007/bored-ape-nft-cards/discussions)
+
 
 ---
 
